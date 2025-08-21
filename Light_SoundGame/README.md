@@ -2,7 +2,7 @@
 
 Link to project: https://glitch.com/edit/#!/shard-familiar-close?path=README.md%3A1%3A0
 
-## Required Functionality
+
 
 The following **required** functionality is complete:
 
